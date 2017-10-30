@@ -1,2 +1,2 @@
 # allnewCOA
-Slide deck fot the All New COA session in Sydney
+Slide deck for the All New COA session in Sydney
